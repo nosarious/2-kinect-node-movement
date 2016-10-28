@@ -1,0 +1,13 @@
+<group>
+	<top_view>0</top_view>
+	<side_view>0</side_view>
+	<3D_view>0</3D_view>
+	<use_kinect_color>1</use_kinect_color>
+	<kinect2_dolly__in_out_>0</kinect2_dolly__in_out_>
+	<kinect2_truck__side-to-side_>0</kinect2_truck__side-to-side_>
+	<kinect2_boom__up-down_>0</kinect2_boom__up-down_>
+	<kinect2_rotate>0</kinect2_rotate>
+	<kinect2_tilt>0</kinect2_tilt>
+	<freeze_Motion>0</freeze_Motion>
+	<kinect2_rotate_point>950</kinect2_rotate_point>
+</group>
